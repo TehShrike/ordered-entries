@@ -1,0 +1,25 @@
+{
+  "name": "ordered-entries",
+  "version": "1.0.0",
+  "description": "Like Object.entries, but using getOwnPropertyNames, so that key order is respected",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/ordered-entries.git"
+  },
+  "keywords": [
+    "object",
+    "entries",
+    "key",
+    "property"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/ordered-entries/issues"
+  },
+  "homepage": "https://github.com/TehShrike/ordered-entries#readme"
+}
